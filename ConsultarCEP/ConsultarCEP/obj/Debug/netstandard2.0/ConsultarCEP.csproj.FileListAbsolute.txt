@@ -1,0 +1,11 @@
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.deps.json
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.dll
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.csprojResolveAssemblyReference.cache
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.App.xaml.g.cs
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.MainPage.xaml.g.cs
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.AssemblyInfoInputs.cache
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.AssemblyInfo.cs
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.pdb
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.dll
+C:\AndreTrust\Treinamentos\VS\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.pdb
